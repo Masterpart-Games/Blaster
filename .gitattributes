@@ -1,0 +1,16 @@
+*.gltf filter=blob
+*.glb filter=blob
+*.gltf.json filter=blob
+*.glb.json filter=blob
+
+# Ignore precompiled binaries
+*.sln filter=-
+*.vcxproj filter=-
+*.vcxproj.filters filter=-
+*.uproject filter=-
+*.uplugin filter=-
+*.uasset filter=-
+*.umap filter=-
+*.uexp filter=-
+*.ini filter=-
+*.txt filter=-
