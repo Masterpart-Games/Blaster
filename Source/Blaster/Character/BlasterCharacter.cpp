@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "Character/BlasterCharacter.h"
+#include "BlasterCharacter.h"
 
 // Sets default values
 ABlasterCharacter::ABlasterCharacter()
